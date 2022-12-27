@@ -1,2 +1,3 @@
 # GNU Horde kernel servers
-Horde Kernel servers for GNU Match source tree
+
+This is an in-progress effort to rewrite the [Hurd microkernel servers](https://github.com/joshumax/hurd) for the [GNU Mach microkernel](https://github.com/OOQQ/GNUmatch).
